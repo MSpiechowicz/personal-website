@@ -230,17 +230,6 @@ a {
   text-decoration: none;
 }
 
-/* a:before {
-  -moz-transition: color 0.2s ease, text-shadow 0.2s ease;
-  -webkit-transition: color 0.2s ease, text-shadow 0.2s ease;
-  -ms-transition: color 0.2s ease, text-shadow 0.2s ease;
-  transition: color 0.2s ease, text-shadow 0.2s ease;
-} */
-
-/* a:hover {
-  color: #ff7496;
-} */
-
 strong,
 b {
   color: #313f47;
@@ -344,7 +333,6 @@ hr {
   line-height: 1;
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
-  font-weight: 400;
 }
 
 .icon > .label {
@@ -450,7 +438,6 @@ ul.icons li a:before {
   line-height: 0;
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
-  font-weight: 400;
 }
 
 ul.icons li a:before {
