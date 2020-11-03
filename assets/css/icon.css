@@ -13,7 +13,6 @@
   text-rendering: auto;
   line-height: 1;
   text-transform: none !important;
-  font-family: "Font Awesome 5 Free";
 }
 
 .icon > .label {
@@ -22,12 +21,4 @@
 
 .icon:before {
   line-height: inherit;
-}
-
-.icon.solid:before {
-  font-weight: 900;
-}
-
-.icon.brands:before {
-  font-family: "Font Awesome 5 Brands";
 }
