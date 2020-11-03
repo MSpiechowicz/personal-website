@@ -1,15 +1,2 @@
-/* Basic */
-
-body:after {
-    display: none;
-}
-
-/* Main */
-
-#main {
-    -moz-transform: none !important;
-    -webkit-transform: none !important;
-    -ms-transform: none !important;
-    transform: none !important;
-    opacity: 1 !important;
-}
+@import url('noscript_basic.css');
+@import url('noscript_main.css');
