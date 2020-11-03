@@ -1,17 +1,14 @@
 # personal-website
 Personal website HTML 5 template inspired by [HTML 5 - Identity project](https://html5up.net/identity).
 
-
 | Technological Stack |
 | ---------- |
 | HTML 5     |
 | CSS        |
 | JavaScript |
 
-<br>
-
 ## License
-----
+
 The MIT License (MIT)
 
 Copyright (c) 2020 Maciej Spiechowicz
