@@ -16,9 +16,9 @@ html {
   box-sizing: inherit;
 }
 
-body.is-preload *,
-body.is-preload *:before,
-body.is-preload *:after {
+body.preload *,
+body.preload *:before,
+body.preload *:after {
   -moz-animation: none !important;
   -webkit-animation: none !important;
   -ms-animation: none !important;
@@ -38,7 +38,7 @@ body {
   background-size: cover;
 }
 
-body.is-preload #main {
+body.preload #main {
   -moz-transform: rotateX(15deg);
   -webkit-transform: rotateX(15deg);
   -ms-transform: rotateX(15deg);
