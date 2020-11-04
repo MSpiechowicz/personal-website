@@ -63,8 +63,14 @@ ul.icons li a:hover {
   color: #329514;
 }
 
-@media screen and (max-width: 480px) {
+@media only screen and (max-device-height: 414px) {
   ul.icons li a:before {
     font-size: 1.5rem;
+  }
+}
+
+@media only screen and (max-device-width: 414px) {
+  ul.icons li a:before {
+    font-size: 2.9rem;
   }
 }
