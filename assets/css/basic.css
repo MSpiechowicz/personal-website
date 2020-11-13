@@ -25,7 +25,7 @@ body.preload *:after {
 body {
   height: 100%;
   margin: 0%;
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/background-small.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
